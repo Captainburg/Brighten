@@ -1,0 +1,4 @@
+﻿  Brighten.cpp
+c:\users\codyc\c# workspace\brighten\brighten\brighten\brighten.cpp(402): warning C4101: 'bitmap': unreferenced local variable
+  Brighten.vcxproj -> C:\Users\CodyC\C# workspace\Brighten\Brighten\Debug\Brighten.exe
+  Brighten.vcxproj -> C:\Users\CodyC\C# workspace\Brighten\Brighten\Debug\Brighten.pdb (Partial PDB)
